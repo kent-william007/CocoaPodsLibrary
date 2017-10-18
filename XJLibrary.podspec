@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "XJLibrary"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "这是我制作的一个cocoaPods库，用于练习"
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 这是我制作的一个cocoaPods库，用于练习，详细的创造过程参考简书http://www.jianshu.com/p/82d3f83241f3
                    DESC
 
-  s.homepage     = "http://EXAMPLE/XJLibrary"
+  s.homepage     = "https://github.com/kent-william007/CocoaPodsLibrary"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "http://EXAMPLE/XJLibrary.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/kent-william007/CocoaPodsLibrary.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
